@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+app/
+components/
+public/
+next-env.d.ts
+tsconfig.json
